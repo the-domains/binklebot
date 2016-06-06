@@ -1,0 +1,14 @@
+layout_spectrum: 0.0310539
+color:
+  saturation: 0.8303081
+  lightness: 0.2226373
+  brandStrength: 0.1453727
+  brandColors:
+    - '#FFF6F9'
+    - '#CC0001'
+    - '#E233F0'
+    - '#283D62'
+    - '#1A99A7'
+  rhythmicContrast: 0.6302246
+typography_spectrum: 0.4534909
+name: 'Binklebot '
